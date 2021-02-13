@@ -2,7 +2,7 @@
 
 ## Live Demo 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/fe63b30658e8a4322d0f#?env%5BTask%20Manager%20API%20(prod)%5D=W3sia2V5IjoidXJsIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6ImF1dGhUb2tlbiIsInZhbHVlIjoiIiwiZW5hYmxlZCI6ZmFsc2V9LHsia2V5IjoiYXV0aFRva2VuIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlfV0=)
-Refer [API Documentation](https://documenter.getpostman.com/view/5136546/TWDRszYT) for more info.
+* Refer [API Documentation](https://documenter.getpostman.com/view/5136546/TWDRszYT) for more info.
 
 ## Features
 
